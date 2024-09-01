@@ -1,4 +1,4 @@
-# Research Assistant AI
+# Research Assistant Agent
 
 **Research Assistant AI** is a Streamlit-based application that leverages language models and web scraping tools to help users search, analyze, and retrieve information from uploaded documents and online resources. This tool is designed to assist in answering research questions by combining document analysis with web search capabilities.
 
